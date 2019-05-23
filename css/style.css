@@ -80,7 +80,7 @@ a:focus,
 a:active {
     text-decoration: none;
     outline: none;
-    color: #333333;
+    color: #31708f;
 }
 
 b {
@@ -218,7 +218,7 @@ button {
 }
 
 .button-anim:hover:before {
-    left: 75%;
+    left: 100%;
     opacity: 1;
 }
 
