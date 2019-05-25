@@ -278,6 +278,10 @@ button {
 
 /* Menu */
 
+.menu-container {
+    background-color: #f1f1f1;
+}
+
 .menu {
     position: absolute;
     right: 15px;
